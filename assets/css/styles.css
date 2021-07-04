@@ -13,6 +13,8 @@ body {
 	background-color: #172e3b;
 	padding: 0 20px 20px 20px;
 	border: 7px solid rgb(247, 243, 243);
+	margin-top: 30px;
+	margin-bottom: 30px;
 }
 h1 {
 	margin: 0;
